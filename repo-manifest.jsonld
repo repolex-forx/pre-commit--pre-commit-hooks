@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pre-commit/pre-commit-hooks/commit/2ee68084ed80421ef5a6d062cf1637825adfcb22",
       "git:hexsha": "2ee68084ed80421ef5a6d062cf1637825adfcb22",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pre-commit/pre-commit-hooks/commit/80c5a182736328ad36305fc0455c834e3e78af5d",
