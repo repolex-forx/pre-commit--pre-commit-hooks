@@ -1,0 +1,11 @@
+{
+  "org": "pre-commit",
+  "repo": "pre-commit-hooks",
+  "versions": [
+    {
+      "commit": "2ee68084ed80421ef5a6d062cf1637825adfcb22",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:39:39.737815+00:00"
+    }
+  ]
+}
